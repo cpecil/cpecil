@@ -3,6 +3,7 @@
 🌟 Emerging entrepreneur, Gen Z student, and self-taught coder – sparking innovation wherever I go.
 
 - 🚀 Building at **[@IntroproAI](https://github.com/IntroproAI)**
+- 🚀 Founder of **[@Ecoglos](https://github.com/ecoglos)**
 - 💡 Passionate about AI, entrepreneurship, and creative problem-solving
 - 📚 Always learning, always growing
 
