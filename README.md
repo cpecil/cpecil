@@ -30,8 +30,8 @@ I thrive on challenges, love collaborating with like-minded innovators, and enjo
 
 ## 📈 GitHub Stats
 
-![Chaitanya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cpecil&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=radical)
+![Chaitanya's GitHub Stats](https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&theme=radical)
+![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
