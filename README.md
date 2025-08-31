@@ -32,7 +32,7 @@ I thrive on challenges, love collaborating with like-minded innovators, and enjo
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark"
+    srcset="https://Dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
