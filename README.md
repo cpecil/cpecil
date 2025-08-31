@@ -29,20 +29,19 @@ I thrive on challenges, love collaborating with like-minded innovators, and enjo
 - Startup Culture & Innovation 🚀
 
 ## 📈 GitHub Stats
-
 <picture>
   <source
-    srcset="https://Dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&theme=dark"
+    srcset="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true&theme=dark"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true"
+    srcset="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true" />
+  <img src="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true" />
 </picture>
 
-![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=transparent)
+![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=transparent&count_private=true)
 
 ## 📫 Connect with Me
 
