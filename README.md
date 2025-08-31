@@ -29,17 +29,8 @@ I thrive on challenges, love collaborating with like-minded innovators, and enjo
 - Startup Culture & Innovation 🚀
 
 ## 📈 GitHub Stats
-<picture>
-  <source
-    srcset="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true"
-    media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true" />
-</picture>
+
+[![Anurag's GitHub stats-Dark](https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/cpecil/github-readme-stats#gh-dark-mode-only)
 
 ![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=transparent&count_private=true)
 
