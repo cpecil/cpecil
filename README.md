@@ -32,7 +32,9 @@ I thrive on challenges, love collaborating with like-minded innovators, and enjo
 
 [![Chaitanya's GitHub stats-Dark](https://dynestatsapi.vercel.app/api?username=cpecil&show_icons=true&count_private=true&include_all_commits=true&theme=dark#gh-dark-mode-only)](https://github.com/cpecil/github-readme-stats#gh-dark-mode-only)
 
-![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&layout=compact&theme=transparent&count_private=true)
+## 📈 GitHub used Languages Stats
+
+![Top Langs](https://dynestatsapi.vercel.app/api/top-langs/?username=cpecil&theme==dark#gh-dark-mode-only&count_private=true)
 
 ## 📫 Connect with Me
 
